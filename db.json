@@ -1,0 +1,25 @@
+{
+      "products": [
+        {
+          "id": 1,
+          "name": "Earthen Bottle",
+          "href": "#",
+          "color": "Blue",
+          "price": "$48",
+          "quantity": 5,
+          "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+          "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+        },
+        {
+          "id": 2,
+          "name": "Nomad Tumbler",
+          "href": "#",
+          "color": "Blue",
+          "price": "$35",
+          "quantity": 5,
+          "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+          "imageAlt": "Olive drab green insulated bottle with flared screw lid and flat top."
+        }
+      ]
+    }
+    
